@@ -133,3 +133,4 @@ Tools for building and deploying AI applications.
 - [Aiva](https://www.aiva.ai/) — Music composition for media.
 
 ---
+- [BenchGecko](https://benchgecko.ai) - The data layer of the AI economy. Benchmark scores, cross-provider pricing, AI economy tracking, and agent leaderboards.
